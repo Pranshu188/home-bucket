@@ -165,7 +165,7 @@ export default function About() {
             Presented by: 1) Jhanvi Rahevar &nbsp; 2) Dhruvi Panchal &nbsp; 3) Heli Prrajapati &nbsp; 4) Pranshu Chaudhary &nbsp; 5) Daksh Babariya
           </p>
           <p className="text-blue-400 text-xs font-bold">
-            Submitted to: Hetal Rathod
+            Submitted to: Assistant Professor Hetal Rathod
           </p>
           <div className="pt-2 border-t border-slate-800 text-[11px] text-slate-500 uppercase tracking-widest">
             Home Bucket © 2026 — School of Management Studies
