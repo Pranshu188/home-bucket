@@ -61,9 +61,19 @@ export default function About() {
                 <span>The Core Problem</span>
               </div>
               <h3 className="text-xl font-bold text-slate-800">The Fragmented Housing Journey</h3>
-              <p className="text-slate-600 text-sm mt-2 leading-relaxed">
-                Currently, home seekers are forced to jump between **discovery portals** (listings), **offline inspectors** (trust verification), **spreadsheets** (hidden utility cost calculator), **messengers** (booking visits), and **packers/movers** (services). This leads to information asymmetry, fake listings, and extreme mental exhaustion.
-              </p>
+              <div className="text-slate-600 text-sm mt-3 space-y-2.5">
+                <p>Currently, home seekers are forced to jump between multiple disjointed channels:</p>
+                <ul className="list-disc pl-5 space-y-1.5 leading-relaxed">
+                  <li><strong>Discovery Portals</strong> for finding property listings.</li>
+                  <li><strong>Offline Inspectors</strong> for trust and photo verification.</li>
+                  <li><strong>Spreadsheets</strong> to compute hidden utility and maintenance costs.</li>
+                  <li><strong>Messengers</strong> to coordinate and book property visits.</li>
+                  <li><strong>Packers & Movers</strong> to arrange shifting and logistics.</li>
+                </ul>
+                <p className="text-rose-600 font-semibold pt-1">
+                  ⚠️ This fragmentation leads to information asymmetry, fake listings, and extreme mental exhaustion.
+                </p>
+              </div>
             </div>
             
             <div className="border-t border-slate-100 pt-6">
