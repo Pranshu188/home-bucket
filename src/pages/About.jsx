@@ -26,7 +26,7 @@ export default function About() {
         <div className="bg-blue-600 text-white rounded-2xl p-6 shadow-xl flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
             <h3 className="text-lg font-bold">Try the Interactive MVP Prototypes</h3>
-            <p className="text-blue-100 text-sm mt-1">Directly demonstrate key features to your professor.</p>
+            <p className="text-blue-100 text-sm mt-1">Directly experience and interact with key platform features in real-time.</p>
           </div>
           <div className="flex flex-wrap gap-2">
             <button 
